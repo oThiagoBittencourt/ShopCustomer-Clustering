@@ -49,6 +49,7 @@ def instance_inputs():
 
 while True:
     try:
+        print("\n### SHOP CUSTOMER CLUSTER ###")
         print("\n1.Insert a new Instance\n2.Exit\n")
         match int(input("Select an option above: ")):
             case 1:

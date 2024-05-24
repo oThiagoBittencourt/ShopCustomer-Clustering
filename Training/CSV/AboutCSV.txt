@@ -1,0 +1,25 @@
+### Shop Customer Data ###
+
+# CustomerID
+Identification
+
+# Gender
+Gender of a customer
+
+# Age
+Age of a customer
+
+# Annual Income ($)
+Annual income of a customer
+
+# Spending Score (1-100)
+Score assigned by the shop, based on customer behavior and spending nature
+
+# Profession
+Proffesion of a customer
+
+# Work Experience
+In years
+
+# Family Size
+Family members of a customer
